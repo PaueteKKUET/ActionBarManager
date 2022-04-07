@@ -1,0 +1,6 @@
+name: ActionBarManager
+version: '${project.version}'
+main: com.fadedbytes.actionbarmanager.ActionBarManager
+api-version: 1.18
+authors: [ PaueteKKUET ]
+description: Manage the actionbars of your players, with different priorities.
